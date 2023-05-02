@@ -23,6 +23,8 @@ pip install speech_recognition nltk pyttsx3 wikipedia datetime webbrowser random
 Installation
 
     Clone this repository.
+    
+    https://github.com/Adameladeb/MY-AI.git
 
     Navigate to the cloned directory in your terminal or command prompt.
 
