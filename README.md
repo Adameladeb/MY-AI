@@ -28,7 +28,7 @@ Installation
 
     Run the assistant.py file using Python 3:
 
-    python assistant.py
+    MY-AI.py
 
 Usage
 
